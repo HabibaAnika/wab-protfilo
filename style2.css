@@ -1,0 +1,28 @@
+body{
+    font-family: 'Caveat', cursive;
+    font-family: 'Dosis', sans-serif;
+}
+
+h2{
+    color: tomato;
+    margin-left: 30%;
+}
+p{
+    color: rgba(250, 128, 114, 0.486);
+    box-shadow: 10px 10px 60px rgb(236, 230, 226),
+               -10px -10px 60px rgb(214, 209, 206);
+     width: 80%;
+    margin-left: 10%;
+    border-radius: 5px;
+    padding: 2%;
+    text-align: justify;
+    border: 1px solid ;
+}
+
+.fa-book-quran{
+    color: #009000 ;
+}
+
+.half img{
+     width: 50%;
+}

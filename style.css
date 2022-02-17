@@ -1,0 +1,126 @@
+.name-hilight{
+    color: orangered;
+}
+
+h1{
+    font-size: 50px;
+}
+p{
+    color: rgba(105, 105, 105, 0.692);
+}
+body{
+    margin: 0;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+}
+section{
+    height: 500px;
+    padding-bottom: 80px;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+    
+}
+.top-banner{
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat; 
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,tomato,rgba(179, 40, 36, 0.767));
+    color: white;
+    padding: 5px 15px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dosis', sans-serif;
+    border-radius: 5px;
+}
+.dream-aria{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.experiens{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left 32%;
+}
+.half-width a{
+    text-decoration: none;
+    color: rgba(105, 105, 105, 0.692);
+}
+.single-experience{
+    box-shadow: 10px 10px 40px rgb(211, 206, 206);
+    padding-bottom: 15px;
+    border-radius: 5px;
+    height: 65%;
+}
+#full-stacks{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,salmon,tomato);
+    border-image-slice: 1;
+}
+#all-links{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue,rgba(19, 164, 221, 0.384));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: smaller;
+}
+#like{
+    height: 20%;
+}
+.fa-facebook{
+    color: #3b5998;
+    font-size: 30px;
+    margin-left: 12px;
+}
+.fa-twitter-square{
+    color:#00acee ;
+    font-size: 30px;
+    margin-left: 12px;
+}
+.fa-instagram-square{
+    background-image: linear-gradient(#F58529,#FEDA77,#DD2A7B,#8134AF,#515BD4);
+    font-size: 27px;
+    border-radius: 3px;
+    margin-left: 12px;
+}
+.fa-linkedin{
+    color:#0077b5 ;
+    font-size: 30px;
+    margin-left: 12px;
+}
+.fa-spotify{
+    color:#1DB954 ;
+    font-size: 30px;
+    margin-left: 12px;
+}
+.fa-youtube-square{
+    color:#FF0000 ;
+    font-size: 30px;
+    margin-left: 12px;
+}
+#follower{
+   /* padding-bottom: 5px;
+    margin-bottom: 5px;*/
+}
+#follow{
+    height: 20%;
+}
+.jpg1{
+    width: 5%;
+}
+.graphic{
+    float: right;
+    width: 35%;
+   
+}
